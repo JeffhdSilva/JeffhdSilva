@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou Jefferson Silva!
-
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350">
 </p>
+
+# 👋 Olá, eu sou Jefferson Silva!
 
 ## 💻 Desenvolvedor em formação | Java | Python | IA
 
